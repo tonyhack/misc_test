@@ -4,7 +4,7 @@
 misc code
 =========
 
-This is a set of my test codes.
+This is a set of test codes.
 
 Src
 ---
